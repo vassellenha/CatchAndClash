@@ -1,0 +1,7 @@
+# Rojo build output
+*.rbxl
+*.rbxlx
+
+# OS junk
+.DS_Store
+Thumbs.db

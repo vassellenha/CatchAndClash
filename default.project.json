@@ -1,0 +1,27 @@
+{
+  "name": "FishingGame",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Fishing": {
+        "$path": "src/ReplicatedStorage/Fishing"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Fishing": {
+        "$path": "src/ServerScriptService/Fishing"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "Fishing": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/Fishing"
+        }
+      }
+    }
+  }
+}
